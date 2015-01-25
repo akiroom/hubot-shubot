@@ -9,7 +9,7 @@ Installation
 * Run the `npm install` command.
 
 ```
-$ npm install hubot-shubot
+$ npm install hubot-shubot -save
 ```
 
 * Add the following code in your `external-scripts.json` file.
