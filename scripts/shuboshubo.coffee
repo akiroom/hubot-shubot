@@ -1,3 +1,8 @@
+# Description:
+#  人もテニスも、ラブから始まる
+#
+# Author:
+#   @akiroom
 
 module.exports = (robot) ->
   words = [
